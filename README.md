@@ -1,3 +1,9 @@
+### Strapi地址
+http://113.31.112.240:1337/admin
+
+### Blog地址
+https://blog-frontend-smoky-ten.vercel.app/
+
 # 练习用
 
 #### 课程中需要的模块, 都已安装完毕. 克隆后直接使用即可. 
